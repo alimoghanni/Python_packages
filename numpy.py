@@ -1,6 +1,6 @@
 """
  * ============================================================================
- * Python Packages  --  networkx
+ * Python Packages  --  numpy
  * 
  * @author Ali Moghanni
  * Resources:
