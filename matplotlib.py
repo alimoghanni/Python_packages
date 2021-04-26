@@ -11,10 +11,10 @@
  * ============================================================================
  """
 
-# Array processing for numbers, strings, records, and objects
+# Publication quality figures in Python
 
-# Link : https://anaconda.org/anaconda/numpy
+# Link : https://anaconda.org/anaconda/matplotlib
 
 # To install this package with conda run:
 
-conda install - c anaconda numpy
+conda install - c anaconda matplotlib
