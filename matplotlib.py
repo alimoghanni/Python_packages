@@ -1,13 +1,13 @@
 """
  * ============================================================================
- * Python Packages  --  numpy
+ * Python Packages  --  matplotlib
  * 
  * @author Ali Moghanni
  * Resources:
  *
  * This .py file can be obtained at https://github.com/alimoghanni/Python_packages.
  *
- * updated: 2021-04-25
+ * updated: 2021-04-26
  * ============================================================================
  """
 
